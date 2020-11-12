@@ -8,8 +8,8 @@ Professor: Ewerson Carvalho
 
 ## Visão
 ![Index](imagens/index2.PNG?raw=true "Index")
----
 
+---
 
 ## Vídeo Explicação do Backend:
 [Vídeo - Drive - Backend](https://drive.google.com/file/d/1YlMTGZQubI80EEb7df5xPxBfWmdotzls/view "Backend")
@@ -20,6 +20,7 @@ Professor: Ewerson Carvalho
 [Vídeo - Drive - Frontend](https://drive.google.com/drive/folders/10JYblqUt7JGxOAQJlzqVY8hbev90akCX "Frontend")
 
 *Apresentador: Lucas Ribeiro*
+
 ---
 
 ![Login](imagens/login.PNG?raw=true "Login")
