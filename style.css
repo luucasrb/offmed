@@ -1,0 +1,109 @@
+body{
+    /* background-image: url('imagens/teste2.jpg'),
+                        linear-gradient(50deg,gray,rgb(223, 197, 197)); */
+    background-size: 100%;
+    height: 100%; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow-x: hidden;
+    /* font-family: "Lato",sans-serif; */
+}
+.divisor{
+    width: 1px;
+    height: 15px;
+    margin: 16px 10px;
+    background-color: white;
+}
+
+.capa{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: rgba(54, 136, 82, 0.822);
+    font-size: 2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+.rodape{
+    background-color: rgba(255, 255, 255, 0.680);
+    text-align: center;
+    font-size: 1.3em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: bold;
+    margin-top: 3%;
+}
+
+.funcoes{
+    margin: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.control-label{
+    font-size: 18px;
+}
+
+.radio{
+    font-size: 16px;
+}
+
+.btn-black{
+background-color: rgb(70, 70, 70);
+border-color: rgb(70, 70, 70);
+}
+
+.lab_cadastro{
+    padding: 5px 20px 15px 20px;
+    background-color: rgba(255, 255, 255, 0.680);
+    border-radius: 10px;
+    margin-bottom: 2px;
+}
+
+.cadastro{
+    padding: 5px 20px 15px 20px;
+    background-color: rgba(255, 255, 255, 0.680);
+    border-radius: 10px;
+    margin-bottom: 2px;
+}
+
+.login{
+    padding: 5px 20px 15px 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-bottom: 2px;
+}
+
+.busca{
+    padding: 5px 20px 15px 20px;
+    background-color: rgba(255, 255, 255, 0.680); 
+    border-radius: 10px;
+}
+
+.rodape{
+    background-color: rgba(255, 255, 255, 0.680);
+    text-align: center;
+    font-size: 1.3em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: bold;
+    margin-top: 3%;
+}
+
+.description{
+    background-color: rgba(236, 236, 236, 0.89);
+    font-family: "Lato",sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: black;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 5px 20px 15px 20px;
+}
+
+.radio{
+    font-size: 16px;
+}
